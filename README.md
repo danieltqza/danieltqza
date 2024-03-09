@@ -1,8 +1,11 @@
-### Hi I'm Daniel
+### Hi  ✋
 
-Im learning web design I've 16 years old 
+
+Im learning web design  years old 
 
 
 I only know these Technologies at this moment 3/8/2024
 
-[![logos.jpg](https://i.postimg.cc/LXyZNCny/logos.jpg)](https://postimg.cc/vgVBmv79)
+1. HTML
+2. CSS
+
